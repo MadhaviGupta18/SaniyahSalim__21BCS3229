@@ -2,7 +2,7 @@
 
 Website Link: https://sociochat.madhavigupta180.repl.co
 
-Students have  to make a real time chat application with a beautiful UI. Students can use firebase for the same. Here one user
+Real time chat application with a beautiful UI where the data is stored in firebase. Here one user
 can chat with multiple users.
 
 
