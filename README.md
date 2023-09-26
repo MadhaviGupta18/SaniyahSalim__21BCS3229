@@ -2,7 +2,9 @@
 
 Website Link: https://sociochat.madhavigupta180.repl.co
 
-Recipe-sharing website featuring vegan food: In this phase, students need to create a gallery of different recipes and show the details of recipes when interacted with.
+Students have  to make a real time chat application with a beautiful UI. Students can use firebase for the same. Here one user
+can chat with multiple users.
+
 
 Team Details: 
 
